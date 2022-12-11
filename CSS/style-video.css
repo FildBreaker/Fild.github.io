@@ -1,0 +1,17 @@
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.intro {
+  max-width: auto;
+  overflow: hidden;
+}
+
+.video__media {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 0;
+  left: 0%;
+}
